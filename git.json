@@ -35,8 +35,9 @@
         "p_sink_file" : "AdventureWorks_Sales_2017.csv"
     },
     {
-        "p_rel_url" : "anshlambagit/Fabric-Tutorial/refs/heads/main/Data/AdventureWorks_Territories.csv",
+        "p_rel_url" : "DeepikaShinde93/FabricTutorial/refs/heads/main/AdventureWorks_Returns.csv",
         "p_sink_folder" : "AdventureWorks_Territories",
         "p_sink_file" : "AdventureWorks_Territories.csv"
     }
+
 ]
